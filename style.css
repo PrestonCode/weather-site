@@ -1,3 +1,15 @@
-.right {
+.card-predict {
+    height: 1000px;
+    width: 1000px;
+    display: flex;
+    justify-content: center;
+}
+#searchRow {
+    width: 600px;
+    height: 100%;
+    display: flex;
+    justify-content: start;
+}
+#today {
     
 }
